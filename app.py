@@ -56,7 +56,7 @@ def health():
                     "contactMedium": [
                         {
                             "@type": "GeographicAddressContactMedium",
-                            "preferred": true,
+                            "preferred": "true",
                             "mediumType": "PostalAddress",
                             "city": "Chicago",
                             "country": "USA",
